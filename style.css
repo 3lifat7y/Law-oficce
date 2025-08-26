@@ -284,9 +284,12 @@ footer{
         flex-direction: column;
         margin-top: 80px;
     }
-    .admin , .serves{
+    .admin {
         transform: translateY(-250px);
     }
+    .serves{
+        transform: translateY(-250px);
+     }
     .admin h2{
         text-align: center;
     }
@@ -376,6 +379,7 @@ footer{
         margin-top: 40px;
     }
 }
+
 
 
 
