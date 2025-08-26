@@ -111,7 +111,7 @@ nav ul a:hover::before{
     margin-right: 60px;
     animation: img 2s ease forwards;
     z-index: -1;
-    transform: translateX(130px);
+    transform: translateX(100px);
     opacity: 0;
 }
 .about .text a{
@@ -301,9 +301,6 @@ footer{
         margin-bottom: 40px;
     }
     @keyframes img {
-        0%{
-            transform: translateX(-10px);
-        }
         100%{
             transform: translateX(0);
             opacity: .2;
@@ -379,4 +376,5 @@ footer{
         margin-top: 40px;
     }
 }
+
 
