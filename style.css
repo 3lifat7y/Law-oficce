@@ -302,7 +302,7 @@ footer{
     }
     @keyframes img {
         100%{
-            transform: translateX(0);
+            transform: translateX(30px);
             opacity: .2;
         }
     }
@@ -376,6 +376,7 @@ footer{
         margin-top: 40px;
     }
 }
+
 
 
 
